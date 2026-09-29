@@ -1,6 +1,29 @@
-# Internship discovery, resumes, outreach, and application tracking
+<div align="center">
 
-This is a local assistant workflow. It finds internships, prepares resumes with Sol and available Laya decision support, drafts outreach, and keeps application records. It does not use computer/browser automation, submit applications, or send messages. Current agent rules are in [AGENTS.md](AGENTS.md).
+<img src="docs/ariadne-hero.png" alt="Ariadne holds a ball of thread beside the entrance to the labyrinth" width="900">
+
+# Ariadne
+
+*A thread through the internship maze.*
+
+**Discover roles · Verify the posting · Tailor your resume · Keep the trail**
+
+[Get started](#quickstart-windows-fresh-clone) · [How it works](#how-ariadne-works) · [Application tracker](#start-here) · [Automatic tailoring](docs/automatic-tailoring.md)
+
+</div>
+
+Ariadne is a local internship search and application preparation workflow. It checks configured internship repositories and public job boards, verifies promising roles against official employer postings, creates a tailored resume from a protected master, and keeps each opportunity and document in a searchable tracker. On request, it also drafts company-specific outreach. The user reviews and sends applications and messages manually.
+
+## How Ariadne works
+
+| Step | What happens | What you get |
+| --- | --- | --- |
+| **Discover** | Check the configured GitHub feeds and public LinkedIn and Glassdoor results. | New leads, with saved history to avoid repeat alerts. |
+| **Verify** | Read the employer's official posting and check location, term, and eligibility. | An official application link and a saved job description. |
+| **Tailor** | Use GPT-6 Sol to select supported resume facts, render a one-page PDF, and inspect the result. | PDF, editable LaTeX source, and interview notes. |
+| **Track** | Keep status, dates, notes, drafts, and confirmed submission evidence together. | A local searchable application index and per-job folders. |
+
+Automatic runs alert only when something actionable changes. Outreach drafts are prepared only when requested. Ariadne does not fill forms, submit applications, send messages, or claim that a draft guarantees eligibility or an interview. Current agent rules are in [AGENTS.md](AGENTS.md).
 
 ## Quickstart (Windows, fresh clone)
 
