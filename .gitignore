@@ -19,3 +19,8 @@ job apps/
 outreach/
 data/job-watch/
 *.tsbuildinfo
+/BUILD_BRIEF.md
+/docs/legacy-setup-and-workflow.md
+/docs/model-routing.md
+/docs/reviewer-schema-fix.md
+/docs/subscription-resume-workflow.md

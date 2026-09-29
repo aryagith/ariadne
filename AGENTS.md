@@ -6,7 +6,7 @@ Fetch new internship postings from the configured repositories, LinkedIn, and Gl
 
 Do not use the computer-use skill or any browser/computer automation. Fetch public pages through web search/fetch tools or ordinary HTTP requests. If a JD cannot be fetched, ask for its text or a working link.
 
-This September 28, 2026 user update, including automatic Sol tailoring after discovery, supersedes the old application-execution and multi-model requirements in BUILD_BRIEF.md and the autoapply skill/references. The brief is historical context.
+This September 28, 2026 user update, including automatic Sol tailoring after discovery, supersedes older application-execution and multi-model requirements in the autoapply skill/references.
 
 ## Discovery and priorities
 

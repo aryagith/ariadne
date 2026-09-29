@@ -182,4 +182,4 @@ Run focused tests with:
 node --test tests/tracker_editor.test.cjs
 ```
 
-Tests use synthetic data and temporary folders; they do not send messages, apply to jobs, or spend on models. Live source access is checked separately. [Historical setup and older workflow details](docs/legacy-setup-and-workflow.md) are retained for reference and do not override the current scope in AGENTS.md.
+Tests use synthetic data and temporary folders; they do not send messages, apply to jobs, or spend on models. Live source access is checked separately.
