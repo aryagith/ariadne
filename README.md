@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="docs/ariadne-hero.png" alt="Ariadne holds a ball of thread beside the entrance to the labyrinth" width="900">
+<img src="docs/ariadne-hero.png" alt="Ariadne holds a thread above a golden labyrinth" width="420">
 
 # Ariadne
 
