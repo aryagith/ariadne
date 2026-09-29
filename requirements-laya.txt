@@ -1,0 +1,2 @@
+# Separate environment: keep model dependencies out of the application runtime.
+laya[serve]==0.3.20

@@ -1,0 +1,18 @@
+{
+  "name": "autoapply",
+  "version": "0.1.0+codex.20260924013007",
+  "description": "Internship scans, subscription-model LaTeX tailoring, reviewed application pairs, and supervised application archives.",
+  "author": {
+    "name": "Personal workspace"
+  },
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Autoapply",
+    "shortDescription": "Scan internships or tailor from an application link.",
+    "longDescription": "Start from a direct application link or scan three GitHub feeds. Tailor the protected LaTeX master into one page with economical subscription models and independent review. Approve each resume and JD pair, then say Apply for supervised Computer Use. Keep files and receipts in a per-job archive.",
+    "developerName": "Personal workspace",
+    "category": "Productivity",
+    "capabilities": [],
+    "defaultPrompt": ["Scan my internship repos and prepare 3 unapplied roles.", "Help me apply to this application link.", "Show my application history and pending packets."]
+  }
+}

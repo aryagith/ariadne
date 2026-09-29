@@ -1,0 +1,21 @@
+.env
+.venv/
+.venv-laya/
+.opencode/
+.playwright-mcp/
+__pycache__/
+.pytest_cache/
+node_modules/
+web/.next/
+web/out/
+data/
+artifacts/
+requests/
+tmp/
+Transcript.pdf
+START_HERE.txt
+master resume/
+job apps/
+outreach/
+data/job-watch/
+*.tsbuildinfo
